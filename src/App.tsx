@@ -16,7 +16,7 @@ const lessons = [
     ctSkills: "abstraction, decomposition, pattern recognition, algorithms",
     bestUse: "Best for descriptive writing, self-expression, and community-building.",
     overlapFamily: "Writing and expression",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/1.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/1.png",
   },
   {
     title: "Blastoff, Space Bee-Bot",
@@ -32,7 +32,7 @@ const lessons = [
     ctSkills: "algorithms, debugging",
     bestUse: "Best for hands-on extension during a solar system unit.",
     overlapFamily: "Space and solar system",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/2.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/2.png",
   },
   {
     title: "Build-a-Beast: Animal Adaptations",
@@ -48,7 +48,7 @@ const lessons = [
     ctSkills: "abstraction, pattern recognition",
     bestUse: "Best for adaptation units and explanation writing.",
     overlapFamily: "Life science and ecosystems",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/3.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/3.png",
   },
   {
     title: "Building Beachside Algorithms",
@@ -64,7 +64,7 @@ const lessons = [
     ctSkills: "algorithms, debugging, constraints",
     bestUse: "Best for upper elementary sequencing, procedural writing, and debugging.",
     overlapFamily: "Sequencing and algorithms",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/4.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/4.png",
   },
   {
     title: "Buzzing Around the Perimeter",
@@ -80,7 +80,7 @@ const lessons = [
     ctSkills: "algorithms, pattern recognition",
     bestUse: "Best for perimeter review with robotics.",
     overlapFamily: "Geometry and perimeter",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/5.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/5.png",
   },
   {
     title: "Cosmo Quest",
@@ -96,7 +96,7 @@ const lessons = [
     ctSkills: "algorithms, abstraction, decomposition, pattern recognition",
     bestUse: "Best for introducing a solar system unit before robotics extension.",
     overlapFamily: "Space and solar system",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/6.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/6.png",
   },
   {
     title: "Decomposing with Canva",
@@ -112,7 +112,7 @@ const lessons = [
     ctSkills: "decomposition",
     bestUse: "Best for digital composition and breaking down complex ideas.",
     overlapFamily: "Writing and expression",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/7.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/7.png",
   },
   {
     title: "El Viaje de la Mariposa (Spanish Bee-Bot)",
@@ -128,7 +128,7 @@ const lessons = [
     ctSkills: "abstraction, algorithm, decomposition",
     bestUse: "Best for language development and story journey mapping.",
     overlapFamily: "Sequencing and algorithms",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/8.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/8.png",
   },
   {
     title: "Escape the Maze with Sphero",
@@ -144,7 +144,7 @@ const lessons = [
     ctSkills: "abstraction, pattern recognition, algorithms",
     bestUse: "Best for plot analysis and retelling with movement.",
     overlapFamily: "Retelling and story structure",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/9.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/9.png",
   },
   {
     title: "Fractions, Patterns and Art",
@@ -160,7 +160,7 @@ const lessons = [
     ctSkills: "decomposition, pattern recognition, algorithms",
     bestUse: "Best for integrating math and art during a fractions unit.",
     overlapFamily: "Math patterns and representation",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/10.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/10.png",
   },
   {
     title: "Get to Know You and Your Bot",
@@ -176,7 +176,7 @@ const lessons = [
     ctSkills: "algorithms, debugging",
     bestUse: "Best as a first robotics lesson.",
     overlapFamily: "Robotics foundations",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/11.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/11.png",
   },
   {
     title: "Holiday Balloon Parade",
@@ -192,7 +192,7 @@ const lessons = [
     ctSkills: "abstraction, decomposition, algorithms",
     bestUse: "Best for seasonal design thinking and presentation.",
     overlapFamily: "Writing and expression",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/12.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/12.png",
   },
   {
     title: "Loops and Choices",
@@ -208,7 +208,7 @@ const lessons = [
     ctSkills: "abstraction, algorithms, decomposition",
     bestUse: "Best for younger students learning sequence and repeated actions.",
     overlapFamily: "Sequencing and algorithms",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/13.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/13.png",
   },
   {
     title: "Mapping Us with Ifs and Thens",
@@ -224,7 +224,7 @@ const lessons = [
     ctSkills: "abstraction, algorithms, pattern recognition",
     bestUse: "Best for geography, symbols, and navigation.",
     overlapFamily: "Maps and place",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/14.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/14.png",
   },
   {
     title: "Ozobot Lifecycle Modeling",
@@ -240,7 +240,7 @@ const lessons = [
     ctSkills: "abstraction, algorithms, pattern recognition",
     bestUse: "Best for life cycle units with visual modeling.",
     overlapFamily: "Life science and ecosystems",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/15.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/15.png",
   },
   {
     title: "Predators, Prey, and Programming",
@@ -256,7 +256,7 @@ const lessons = [
     ctSkills: "decomposition, debugging, pattern recognition",
     bestUse: "Best for ecosystem interactions in grade 2.",
     overlapFamily: "Life science and ecosystems",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/16.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/16.png",
   },
   {
     title: "Quadrabot City",
@@ -272,7 +272,7 @@ const lessons = [
     ctSkills: "algorithms, debugging, decomposition",
     bestUse: "Best for shape recognition and quadrilateral vocabulary.",
     overlapFamily: "Geometry and perimeter",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/17.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/17.png",
   },
   {
     title: "Robots Don’t Eat S-OU-P",
@@ -288,7 +288,7 @@ const lessons = [
     ctSkills: "algorithms, sequencing",
     bestUse: "Best for targeted word work and phonics intervention.",
     overlapFamily: "Phonics and word study",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/18.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/18.png",
   },
   {
     title: "Robots Get the Hiccups Too",
@@ -304,7 +304,7 @@ const lessons = [
     ctSkills: "abstraction, decomposition",
     bestUse: "Best for retelling and response after a read-aloud.",
     overlapFamily: "Retelling and story structure",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/19.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/19.png",
   },
   {
     title: "Seaside Sequence Adventure",
@@ -320,7 +320,7 @@ const lessons = [
     ctSkills: "algorithms, debugging, constraints",
     bestUse: "Best for early procedural writing and debugging language.",
     overlapFamily: "Sequencing and algorithms",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/20.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/20.png",
   },
   {
     title: "Seeds on the Move",
@@ -336,7 +336,7 @@ const lessons = [
     ctSkills: "algorithms, decomposition, pattern recognition",
     bestUse: "Best for plant science and movement-based modeling.",
     overlapFamily: "Life science and ecosystems",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/21.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/21.png",
   },
   {
     title: "Sphero Shapes",
@@ -352,7 +352,7 @@ const lessons = [
     ctSkills: "algorithms, conditional statements",
     bestUse: "Best for comparing shapes and extending into area.",
     overlapFamily: "Geometry and perimeter",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/22.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/22.png",
   },
   {
     title: "The Cleanup Code",
@@ -368,7 +368,7 @@ const lessons = [
     ctSkills: "pattern recognition",
     bestUse: "Best for environmental action and cause-effect discussion.",
     overlapFamily: "Life science and ecosystems",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/23.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/23.png",
   },
   {
     title: "Very Hungry Coding",
@@ -384,7 +384,7 @@ const lessons = [
     ctSkills: "algorithm",
     bestUse: "Best for kindergarten sequencing and first robot pathways.",
     overlapFamily: "Sequencing and algorithms",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/24.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/24.png",
   },
   {
     title: "We Can Sort it Out",
@@ -400,7 +400,7 @@ const lessons = [
     ctSkills: "abstraction, decomposition, pattern recognition, algorithms",
     bestUse: "Best for early math and science classification work.",
     overlapFamily: "Sorting and classifying",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/25.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/25.png",
   },
   {
     title: "Where is your Home?",
@@ -416,7 +416,7 @@ const lessons = [
     ctSkills: "abstraction, classification",
     bestUse: "Best for social studies and community units.",
     overlapFamily: "Homes, culture, and communities",
-    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%20(2)/bookcover/26.png",
+    coverImage: "https://raw.githubusercontent.com/stevenraymond8592-create/lessonrepositoryct/main/unboxing-ct-lesson-finder%2520(2)/bookcover/26.png",
   }
 ];
 
@@ -523,6 +523,11 @@ const FALLBACK_COVER = "https://images.unsplash.com/photo-1544947950-fa07a98d237
 const BookCover = ({ coverImage, altText, className, style }: { coverImage?: string, altText: string, className?: string, style?: React.CSSProperties }) => {
   const [error, setError] = useState(false);
 
+  // Reset error state when coverImage changes
+  useEffect(() => {
+    setError(false);
+  }, [coverImage]);
+
   // If the user hasn't replaced "Link_here" yet, use the fallback placeholder
   const isPlaceholder = !coverImage || coverImage === "Link_here";
   const finalUrl = error || isPlaceholder ? FALLBACK_COVER : coverImage;
@@ -534,7 +539,12 @@ const BookCover = ({ coverImage, altText, className, style }: { coverImage?: str
       className={`object-cover ${className}`}
       style={style}
       referrerPolicy="no-referrer"
-      onError={() => setError(true)}
+      onError={() => {
+        if (!isPlaceholder && !error) {
+          console.error(`Failed to load image: ${coverImage}`);
+          setError(true);
+        }
+      }}
     />
   );
 };
@@ -694,7 +704,7 @@ export default function App() {
       <div className="bg-white rounded-3xl overflow-hidden shadow-sm border border-slate-200 hover:shadow-md transition-all duration-200 flex flex-col md:flex-row">
         {/* Book Cover Area */}
         <div className={`relative md:w-64 shrink-0 p-6 text-white flex flex-col justify-between overflow-hidden ${getBookGradient(lesson.topicGroup)}`}>
-          <BookCover coverImage={(lesson as any).coverImage} altText={lesson.readAloud} className="absolute inset-0 w-full h-full opacity-40 mix-blend-overlay" />
+          <BookCover coverImage={lesson.coverImage} altText={lesson.readAloud} className="absolute inset-0 w-full h-full opacity-40 mix-blend-overlay" />
           <div className="relative z-10 bg-black/20 border border-white/20 rounded-2xl p-5 h-full flex flex-col justify-between backdrop-blur-sm">
             <div>
               <div className="text-[10px] font-bold tracking-widest uppercase text-white/80 mb-3">
@@ -704,9 +714,8 @@ export default function App() {
                 {coverTitle(lesson.readAloud)}
               </h3>
               <div className="mt-4">
-                {/* ADJUST BOOK COVER SIZE HERE */}
                 <BookCover 
-                  coverImage={(lesson as any).coverImage} 
+                  coverImage={lesson.coverImage} 
                   altText={lesson.readAloud} 
                   className="rounded shadow-sm border border-white/20" 
                   style={{ width: '80px', height: '110px' }} 
