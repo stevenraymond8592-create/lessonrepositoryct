@@ -420,7 +420,7 @@ const lessons = [
   }
 ];
 
-const gradeOptions = ["All Grades", "PK-2", "K", "K-2", "K-3", "1", "1-2", "1-5", "2", "3-4", "3-5", "3-6", "4", "4-5", "4-6", "5", "6"];
+const gradeOptions = ["All Grades", "PK", "K", "1", "2", "3", "4", "5", "6"];
 const subjectOptions = ["All Subjects", "ELA", "Math", "Science", "Social Studies", "Writing", "CS / Robotics", "Art"];
 const toolOptions = ["All Tools", "Unplugged", "Bee-Bot", "Botley", "Ozobot", "Sphero", "Canva", "3Doodler"];
 const topicOptions = [
@@ -462,17 +462,24 @@ const subjectToTopics: Record<string, string[]> = {
 
 function includesWizardGrade(selectedGrade: string, lessonBand: string) {
   if (!selectedGrade || selectedGrade === "All Grades") return true;
-  const map: Record<string, string[]> = {
-    "PK": ["PK-2"],
-    "K": ["K", "PK-2", "K-2", "K-3"],
-    "1": ["1", "1-2", "K-2", "K-3", "1-5"],
-    "2": ["2", "1-2", "K-2", "K-3", "1-5", "PK-2"],
-    "3": ["3", "3-4", "3-5", "3-6", "1-5", "K-3"],
-    "4": ["4", "4-5", "4-6", "3-4", "3-5", "3-6", "1-5"],
-    "5": ["5", "4-5", "4-6", "3-5", "3-6", "1-5"],
-    "6": ["6", "4-6", "3-6"]
-  };
-  return map[selectedGrade]?.includes(lessonBand) || false;
+  
+  const grades = ["PK", "K", "1", "2", "3", "4", "5", "6"];
+  const selectedIndex = grades.indexOf(selectedGrade);
+  if (selectedIndex === -1) return false;
+
+  if (lessonBand.includes("-")) {
+    const [start, end] = lessonBand.split("-");
+    const startIndex = grades.indexOf(start);
+    const endIndex = grades.indexOf(end);
+    
+    if (startIndex !== -1 && endIndex !== -1) {
+      return selectedIndex >= startIndex && selectedIndex <= endIndex;
+    }
+  } else {
+    return selectedGrade === lessonBand;
+  }
+  
+  return false;
 }
 
 function includesWizardSubject(selectedSubject: string, lessonSubject: string) {
@@ -489,8 +496,7 @@ function includesWizardSubject(selectedSubject: string, lessonSubject: string) {
 }
 
 function matchesGrade(selected: string, lessonBand: string) {
-  if (selected === "All Grades") return true;
-  return lessonBand === selected;
+  return includesWizardGrade(selected, lessonBand);
 }
 
 function matchesSubject(selected: string, subject: string) {
@@ -718,7 +724,7 @@ export default function App() {
                   coverImage={lesson.coverImage} 
                   altText={lesson.readAloud} 
                   className="rounded shadow-sm border border-white/20" 
-                  style={{ width: '160px', height: '220px' }} 
+                  style={{ width: '80px', height: '110px' }} 
                 />
               </div>
             </div>
