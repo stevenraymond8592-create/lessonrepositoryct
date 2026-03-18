@@ -718,7 +718,7 @@ export default function App() {
                   coverImage={lesson.coverImage} 
                   altText={lesson.readAloud} 
                   className="rounded shadow-sm border border-white/20" 
-                  style={{ width: '80px', height: '110px' }} 
+                  style={{ width: '160px', height: '220px' }} 
                 />
               </div>
             </div>
